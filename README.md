@@ -26,12 +26,6 @@ Visualization: Atoti
 ML: scikit-learn (Random Forest)
 OLAP: Python (cube/atoti)
 
-📁 Project Structure
-├── data/                   # Raw CDC data
-├── etl/                    # ETL scripts
-├── sql/                    # Data warehouse schema
-├── dashboards/             # Atoti dashboard configs
-├── ml/                     # Machine learning models
-└── docs/                   # Project documentation
+
 📈 Data Source
 CDC Autism Prevalence Studies Database: https://data.cdc.gov/Public-Health-Surveillance/autism-prevalence-studies/9mw4-6adp
